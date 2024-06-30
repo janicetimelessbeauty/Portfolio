@@ -140,7 +140,7 @@ function bodyScrollingToggle() {
                 preBtn.style.display = "none";
                 nextBtn.style.display ="none";
             }
-    
+
             else{
                 preBtn.style.display = "block";
                 nextBtn.style.display ="block";

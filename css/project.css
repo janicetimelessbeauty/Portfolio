@@ -1,0 +1,60 @@
+.summary {
+    display: grid;
+    grid-template-columns: 10% 30% 50%;
+    font-size: 18px;
+    margin-left: 60px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.head {
+    margin-left: 50px;
+}
+.cola {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 10px;
+}
+.list {
+    margin-top: 55px;
+    margin-bottom: 55px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(61, 100, 100);
+}
+.titles {
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(206, 199, 199);
+    padding: 10px;
+    margin-bottom: 40px;
+    width: 1400px;
+    cursor: pointer;
+}
+.cola:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    background-color:rgb(230, 234, 238);
+}
+.detail {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 50px;
+    margin-left: 30px;
+}
+.ele {
+    border-bottom: 1px solid rgb(194, 192, 192);
+}
+.feature {
+    margin-left: 280px;
+    margin-top: 45px;
+}
+.detail:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    background-color:rgb(220, 224, 228);
+}
+.collections {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
