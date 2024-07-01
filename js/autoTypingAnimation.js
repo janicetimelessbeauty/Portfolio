@@ -1,9 +1,9 @@
 setTimeout(function() {
-    $('.about-info-inner').typed({
-      strings: [
-        "<span>Hi, I am Jessie Tuan. Aspiring software developer with one-year experience in responsive and secure web development using Reactjs for Front-end development and Nodejs, C#, Python for back-end development. Currently doing active research in the field of machine learning and AI by building chatbots and expert systems based on Python libraries"
-      ],
-      typeSpeed: 7,
-      contentType: 'html'
-    });
-  }, 100);
+  $('.about-info-inner').typed({
+    strings: [
+      "<span>I'm an aspiring computer science graduate having experience in mining simulator software and web application development with automated testing to assure quality. I enjoy collaborating in Agile teams tomanage Scrum projects throughout the software development cycle. As a key member in previous working teams, I demonstrated a growth mindset in adopting new technologies and an open-minded attitude to innovative perspectives."
+    ],
+    typeSpeed: 7,
+    contentType: 'html'
+  });
+}, 100);
